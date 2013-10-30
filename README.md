@@ -1,4 +1,4 @@
-wordpress
+Wordpress WN Facebook Like Box Widget
 =========
 
-This Wordpress widget is to add the Facebook Like Box plugin to your site.
+This Wordpress Widget is to add the Facebook Like Box plugin to your site.
